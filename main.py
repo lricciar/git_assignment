@@ -10,5 +10,7 @@ def sincos(x,y,z):
     z = np.cos(x)
     mp.plot(x,y,x,z)
     mp.show()
+sincos(1,1,1)
+
   
   
